@@ -2,7 +2,7 @@
 
 ## Project description
 In this project, we implement a deep neural network for combinatorial optimization problems.
-The input is a set of items  and output consists of a sequence of output. Mathematically, the objective 
+The input is a set of items  and output consists of a sequence of items. Mathematically, the objective 
 is to learn the joint distribution of output given input. An important property of  this problem is that the model 
 is invariant to the inputs which makes it suitable for set data. The output is assumed to be ordered important
 
